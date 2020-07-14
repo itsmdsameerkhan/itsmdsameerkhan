@@ -5,4 +5,5 @@ I am **Muhammad Sameer**🤗. A programmer(*miserable one*) who loves to mess ar
 - 😍 JavaScript, React.js, Node.js
 - 💘 Python, Django, Flask
 - 🤠 Java
+- 😘 Linux
 - 🛳 Docker
