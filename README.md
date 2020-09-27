@@ -11,4 +11,4 @@ But just like a bathroom singer won't stop singing no matter how poor singer he 
 ---
 
 #### In Metrics:
-[![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=itsmdsameerkhan&count_private=true&include_all_commits=true&show_icons=true&theme=dark&custom_title=Sameer%27s%20GitHub%20Stats&line_height=22)](https://github.com/itsmdsameerkhan)
+[![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=itsmdsameerkhan&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dark&custom_title=Sameer%27s%20GitHub%20Stats&line_height=22)](https://github.com/itsmdsameerkhan)
